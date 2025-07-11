@@ -4,9 +4,9 @@ A clean and responsive sidebar menu built with **HTML** and **CSS**, featuring s
 
 ## 🔗 Live Demo
 
-👉 [View Live on Render](https://sidebar-menu-1h1p.onrender.com)
+[View Live on Render](https://sidebar-menu-1h1p.onrender.com)
 
-## ✨ Features
+##  Features
 
 - Responsive design
 - Hamburger toggle menu
@@ -15,5 +15,5 @@ A clean and responsive sidebar menu built with **HTML** and **CSS**, featuring s
 - Social media links
 - Background image with full-page layout
 
-## 📁 Folder Structure
+## Folder Structure
 
