@@ -2,7 +2,7 @@
 
 A clean and responsive sidebar menu built with **HTML** and **CSS**, featuring smooth animations, Font Awesome icons, and a background image.
 
-## 🔗 Live Demo
+## Live Demo
 
 [View Live on Render](https://sidebar-menu-1h1p.onrender.com)
 
